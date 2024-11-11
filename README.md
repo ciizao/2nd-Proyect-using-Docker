@@ -2,7 +2,7 @@
 ## Results
 
 <p align="center">
-    <img src="./public/Images/Resultado.png" alt="Result ">
+    <img src="Public/Images/Resultado.png" alt="Result ">
 </p>
 
 This is a program that presents a message on the web with Javascript
@@ -38,18 +38,18 @@ Open new window browser and search localhost:3000
 ## :light_rail: PAAS Deploy with docker (Railway)
 For its deployment in a PAAS we will rely on railway and its easy implementation thanks to its container management. 
 
-![Railway Service](./public/Images/Rarlway1.png "Service")
+![Railway Service](Public/Images/Rarlway1.png "Service")
 
 
-![Build Container](./public/Images/Rarlway3.png "Build Configuration")
+![Build Container](public/Images/Rarlway3.png "Build Configuration")
 
 > [!IMPORTANT]
 > Next, the configuration that we must add is the generation of a domain along with the desired port, in this case the indicated thing would be to point to port 3000
 
-![Generate Domain](./public/Images/Rarlway2.png"Domain")
+![Generate Domain](Public/Images/Rarlway2.png "Domain")
 
 ### View the results
-![Result Railway](./public/Images/RarlwayResult.png.png"Domain")
+![Result Railway](Public/Images/RarlwayResult.png "Domain")
 
 
 Link Railway App
