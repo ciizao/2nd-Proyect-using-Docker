@@ -19,6 +19,11 @@ This is a program that presents a message on the web with Javascript
 * Docker - DockerDesktop installed
 * DockerHub account
 ### Download image
+
+*Image in the DockerHub repository and how to use it
+```
+https://hub.docker.com/repository/docker/ciizao/2nd-proyect-using-docker-javascript/general
+```
 ```
 docker pull ciizao/2nd-proyect-using-docker-javascript
 ```
@@ -46,6 +51,8 @@ For its deployment in a PAAS we will rely on railway and its easy implementation
 ![Generate Domain](Public/Images/Rarlway2.png "Domain")
 
 ### View the results
+
+>This is the result of deploying in Railway through the created domain
 ![Result Railway](Public/Images/RarlwayResult.png "Domain")
 
 
