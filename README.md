@@ -40,9 +40,6 @@ For its deployment in a PAAS we will rely on railway and its easy implementation
 
 ![Railway Service](Public/Images/Rarlway1.png "Service")
 
-
-![Build Container](public/Images/Rarlway3.png "Build Configuration")
-
 > [!IMPORTANT]
 > Next, the configuration that we must add is the generation of a domain along with the desired port, in this case the indicated thing would be to point to port 3000
 
