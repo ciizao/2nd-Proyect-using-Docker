@@ -22,7 +22,7 @@ This is a program that presents a message on the web with Javascript
 
 *Image in the DockerHub repository and how to use it
 ```
-https://hub.docker.com/repository/docker/ciizao/2nd-proyect-using-docker-javascript/general
+https://hub.docker.com/repository/docker/ciizao/2nd-proyect-using-docker-javascript
 ```
 ```
 docker pull ciizao/2nd-proyect-using-docker-javascript
